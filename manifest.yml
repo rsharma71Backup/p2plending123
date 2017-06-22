@@ -4,7 +4,7 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: p2plending_rls
-  host: p2plending_rls
+  host: p2plending_rls123
   disk_quota: 1024M
   command: app.js
   buildpack: https://github.com/cloudfoundry/nodejs-buildpack
